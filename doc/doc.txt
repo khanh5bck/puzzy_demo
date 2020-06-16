@@ -1,0 +1,26 @@
+
+
+XẾP HÌNH
+
+
+Bạn hãy sử dụng assets có sẵn và viết 1 game bằng ngôn ngữ quen thuộc nhất đối với bạn, đề làm 1 game, như trong video "game_demo".
+
+I. Yêu cầu cơ bản.
+
+- Sử dụng các phím nút arrow trên máy tính hoặc click chuột để di chuyển các khối ô vuông.
+
+- Mục tiêu sắp các khối ô vuông lộn xộn thành 1 bức tranh hoàn chỉnh.
+
+II. Yêu cầu nâng cao.
+- Nếu đủ thời gian, bạn có thể mở rộng thêm game như gửi ý dưới đây.
+
+1. Giới hạn thời gian trong game, nghĩa là game trong vòng 60s user phải sắp xong bức tranh hoàn chỉnh.
+
+2. Thêm level cho game, ở cấp độ cao hơn thì mức độ khó sẽ cao hơn, chẳng hạn như sau:
+ - Thời gian giảm đi.
+ - Số mảnh ghép ô vuông nhiều hơn.
+
+III. Nộp bài.
+- Bạn hãy đóng gói game lại và gửi về cho bên tuyển dụng. Mục tiêu là chạy được game dứoi local bạn nhé!
+
+CHÚC BẠN MÀY MẮN!!!!
