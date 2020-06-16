@@ -61,13 +61,12 @@ export class Scene_UI extends Scene_Base{
         btn_reset.position.set(this.width_dynamic/2-110,350);
         this.addChild(btn_reset)
 
-        console.log('btn_game_mode_toggle')
         const btn_game_mode_toggle = new Button({
             label: 'Game mode: Normal',
             width: 420,
             height: 80,
             onTap: () => {
-                console.log('Reset');
+                console.log('Change game mode');
                 // step = 0 <=> reload level
                 this.changeGameMode(btn_game_mode_toggle.label);
             }

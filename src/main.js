@@ -4,7 +4,7 @@ import { CONFIG } from './managers/config.js'
 let Application = PIXI.Application,
   loader = PIXI.loader
 
-console.log(location.pathname);
+console.log(location.pathname); 
 
 const app = new Application({ width: CONFIG.window_width, height: CONFIG.window_heigh, backgroundColor: CONFIG.game_backgroundColor,transparent: false });
 
