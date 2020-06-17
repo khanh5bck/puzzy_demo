@@ -1,5 +1,10 @@
 
+
 let config_level = [
+    {
+        map_col:3,
+        map_row:2
+    },
     {
         map_col:4,
         map_row:3
@@ -34,10 +39,9 @@ export var CONFIG = {
      // game play config
      game_levels:config_level,
      move_speed:80    ,
-     countdown_time:5,
+     countdown_time:60,
      show_tile_lable:true,
      // scene config
      scene_bound_color:0Xc3a9fe,
-
 }
 
